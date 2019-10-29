@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>개신기해!</Text>
+      <Text>개신기해  ㅇㄴㄹ  ㅇ!</Text>
     </View>
   );
 }
