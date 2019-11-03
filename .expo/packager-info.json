@@ -1,9 +1,9 @@
 {
   "devToolsPort": 19002,
-  "expoServerPort": 19000,
-  "packagerPort": 19001,
-  "packagerPid": 10954,
-  "expoServerNgrokUrl": "https://qs-994.palecosmos.react-native-exercise.exp.direct",
-  "packagerNgrokUrl": "https://packager.qs-994.palecosmos.react-native-exercise.exp.direct",
-  "ngrokPid": 10996
+  "expoServerPort": null,
+  "packagerPort": null,
+  "packagerPid": null,
+  "expoServerNgrokUrl": null,
+  "packagerNgrokUrl": null,
+  "ngrokPid": null
 }
